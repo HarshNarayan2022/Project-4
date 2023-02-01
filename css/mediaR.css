@@ -1,0 +1,57 @@
+
+@media screen and (max-width: 1100px){
+    
+
+
+
+
+    .navbar{
+        flex-direction: column;
+        transition: all 0.9s ease-out;
+        height: 400px;
+    }
+
+
+    .nav-list1{
+        flex-direction: column;
+        width: 100%;
+     
+    }
+
+    .nav-list{
+        flex-direction: column;
+    }
+
+
+
+    .burger{
+        display: block;
+    }
+
+    .h-nav-resp{
+        height: 60px;
+    }
+ 
+    .v-class-resp{
+        opacity: 0;
+
+    }
+
+    .firstsection{
+        height: 100vh;
+        
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
